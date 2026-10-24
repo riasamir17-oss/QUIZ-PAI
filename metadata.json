@@ -1,0 +1,8 @@
+{
+  "name": "Pendidikan Agama Islam QUIZ",
+  "description": "Aplikasi Pengerjaan Kuis Interaktif Pendidikan Agama Islam dengan Sistem Pengawasan Online (Online Proctoring), Webcam, Deteksi Tab Switch, dan Dashboard Admin.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
